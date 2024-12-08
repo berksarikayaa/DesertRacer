@@ -1,0 +1,26 @@
+[
+	{
+		"file": "C:\\Users\\berks\\Documents\\Unreal Projects\\DesertRacer\\Source\\DesertRacer\\DesertRacer.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\berks\\Documents\\Unreal Projects\\DesertRacer\\.vscode\\compileCommands_Default\\DesertRacer.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\berks\\Documents\\Unreal Projects\\DesertRacer\\Source\\DesertRacer\\DesertRacer.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\berks\\Documents\\Unreal Projects\\DesertRacer\\.vscode\\compileCommands_Default\\DesertRacer.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\berks\\Documents\\Unreal Projects\\DesertRacer\\Source\\DesertRacer\\DesertRacer.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\berks\\Documents\\Unreal Projects\\DesertRacer\\.vscode\\compileCommands_Default\\DesertRacer.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
